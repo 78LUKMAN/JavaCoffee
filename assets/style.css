@@ -224,7 +224,7 @@ nav ul li a:hover {
 }
 
 #product {
-    background-image: url(img/product-bg.png);
+   /* background-image: url(img/product-bg.png);*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
